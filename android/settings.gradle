@@ -1,0 +1,3 @@
+rootProject.name = 'rnFlightTest'
+
+include ':app'
